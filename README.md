@@ -1,0 +1,4 @@
+cors
+====
+
+gohttp CORS middleware
